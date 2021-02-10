@@ -4,7 +4,7 @@ I am a hoarder of information so once again, I figured I would put this here in 
 
 Under constructions folks! I am currently re-organizing this. Check back shortly.
 
-Sincerely,
+Sincerely,/
 _Management_
 
 ## Algorithms
