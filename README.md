@@ -4,8 +4,7 @@ I am a hoarder of information so once again, I figured I would put this here in 
 
 Under constructions folks! I am currently re-organizing this. Check back shortly.
 
-Sincerely,/
-_Management_
+Sincerely, /_Management_
 
 ## Algorithms
 [Approximation Algorithms](https://www.coursera.org/learn/approximation-algorithms?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch)
