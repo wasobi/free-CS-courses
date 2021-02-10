@@ -1,7 +1,7 @@
 # Free Computer Science Courses
-I am a hoarder of information so once again, I figured I would put this here in case anyone was looking to get more tools under their belt. I have scoured high and low to find free and well organized course offerings for anyone who is interested in Computer Science, Software Engineering, or Data Science. I have listed courses that are for people who are looking to get their feet wet and some oh so special ones that would be great for a seasoned pro looking for a new challenge.\
+~~I am a hoarder of information so once again, I figured I would put this here in case anyone was looking to get more tools under their belt. I have scoured high and low to find free and well organized course offerings for anyone who is interested in Computer Science, Software Engineering, or Data Science. I have listed courses that are for people who are looking to get their feet wet and some oh so special ones that would be great for a seasoned pro looking for a new challenge.\
 \
-**DISCLAIMER**: I have not taken many of the courses listed below (ha, I wish). The goal is to put these on your radar. If you find a paid course that would suit you better, that's okay. Just doing my part to help others save their hard earned coin. 
+**DISCLAIMER**: I have not taken many of the courses listed below (ha, I wish). The goal is to put these on your radar. If you find a paid course that would suit you better, that's okay. Just doing my part to help others save their hard earned coin. ~~
 \
 \
 \
