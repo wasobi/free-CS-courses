@@ -46,38 +46,38 @@ _Management_**
 
 
 ## System Architecture
-[](https://www.coursera.org/specializations/secure-coding-practices#enroll) \
-[](https://www.coursera.org/learn/cloud-computing?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
-[](https://www.coursera.org/learn/cloud-applications-part1?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
-[](https://www.coursera.org/learn/introduction-embedded-systems?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
-[](https://www.udacity.com/course/software-architecture-design--ud821) \
-[](https://www.udacity.com/course/advanced-operating-systems--ud189)
+[Secure Coding](https://www.coursera.org/specializations/secure-coding-practices#enroll) \
+[Cloud Computing](https://www.coursera.org/learn/cloud-computing?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
+[Cloud Applications](https://www.coursera.org/learn/cloud-applications-part1?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
+[Intro to Embedded Systems](https://www.coursera.org/learn/introduction-embedded-systems?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
+[Software Architecture](https://www.udacity.com/course/software-architecture-design--ud821) \
+[Advanded Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
 
 
 ## Testing
-[](https://www.udacity.com/course/software-testing--cs258) \
-[](https://www.udacity.com/course/software-debugging--cs259) \
-[](https://www.udacity.com/course/software-analysis-testing--ud333) \
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) \
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) \
+[Software Analysis Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 
 
 ## Security
-[](https://www.coursera.org/learn/mathematical-foundations-cryptography?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
-[](https://www.coursera.org/learn/distributed-programming-in-java?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) 
+[Mathematical Foundations and Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
+[Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) 
 
 
 ## Networks
-[](https://www.coursera.org/learn/wireless-communications?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
-[](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) \
-[](https://www.udacity.com/course/computer-networking--ud436) 
+[Wireless Communications](https://www.coursera.org/learn/wireless-communications?utm_medium=coursera&utm_source=looker&utm_campaign=coursematch) \
+[Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) \
+[Computer Networking](https://www.udacity.com/course/computer-networking--ud436) 
 
 
 ## Programming Refreshers
-[](https://www.coursera.org/projects/learn-programming-python) \
-[](https://www.coursera.org/projects/learn-programming-csharp) \
-[](https://www.udacity.com/course/learn-swift-programming-syntax--ud902) \
-[](https://www.udacity.com/course/swift-for-beginners--ud1022) \
-[](https://www.udacity.com/course/intro-to-data-science--ud359) \
-[](https://www.udemy.com/course/java-the-complete-java-developer-course/) 
+[Learn Programming in Python](https://www.coursera.org/projects/learn-programming-python) \
+[Learn Programming in C#](https://www.coursera.org/projects/learn-programming-csharp) \
+[Learn Programming in Swift](https://www.udacity.com/course/learn-swift-programming-syntax--ud902) \
+[Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022) \
+[Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) \
+[The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/) 
 
 ## Up Next...
 - [x] Update class list
