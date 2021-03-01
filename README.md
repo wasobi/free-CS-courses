@@ -81,6 +81,7 @@ I am a hoarder of information so once again, I figured I would put this here in 
 - [ ] Add Difficulty
 - [ ] Add areas of interest
 - [ ] Add courses for tech interview prep
+- [ ] Guided projects
 - [ ] Create a beginner-friendly course round-up
 - [ ] Recommended paid courses
 - [ ] Suggested YouTube accounts
