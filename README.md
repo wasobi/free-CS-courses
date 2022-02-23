@@ -73,7 +73,7 @@ I am a hoarder of information so once again, I figured I would put this here in 
 [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) \
 [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/) 
 
-## Miscelaneous Resources
+## Miscellaneous Resources
 [Freebooks? Hell Yea!](http://freetechbooks.com/)
 
 ## Up Next...
